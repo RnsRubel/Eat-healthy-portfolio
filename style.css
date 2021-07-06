@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+.contentwrapper{
+    display: flex;
+    padding: 5%;
+}
+.content{
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 90px;
+    
+}
+div img{
+    width:100% ;
+    padding-left:30px;
+}
+h1{
+    font-size: 40px;
+    width: 384px;
+}
+span{
+    color:#FB934A;
+}
+p{
+    width: 420px;
+    margin-bottom: 50px;
+    font-size: 13px;
+}
+a{
+    background-image: linear-gradient(orange, tomato);
+    padding: 15px 30px;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 12px;
+}
+.about content{
+    width: 50%;
+}
+.aboutwrapper{
+    display:flex;
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+.aboutwrapper div img{
+    width:45%;
+    padding-top: 40px;
+    padding-left: 140px;
+}
+.header{
+    font-size: 25px;
+}
+.box{
+    box-shadow: 5px 5px 5px 5px gray;
+   
+    
+}
+.recipice box wrapper{
+    float: left;
+}
+
+}
+.recipice title{
+    width:50%;
+}
+.recipice img{
+    width:20%;
+}
