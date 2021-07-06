@@ -122,25 +122,29 @@ a{
    width: 150px;
    margin-left: 50px;
 }
-footer{
-    background-color: black;
-    color: azure;
-    padding-top: 25px;
-    padding-left:280px ;
-    padding-bottom: 10px;
+footer {
+    margin-top: 100px;
+    background: #0b0d17;
+    color: white;
     text-align: center;
-}
-.food{
-    color:#FB934A
-}
-footer h1{
-    font-size: 18px;
-    margin-bottom: 30px;
-}
-footer p{
-    font-size: 10px;
-    
-}
+    padding: 40px 0px;
+  }
+  
+  footer h2 {
+    color: #888;
+    margin: 0;
+  }
+  
+  footer h2 span {
+    color: crimson;
+  }
+  
+  footer p {
+    padding-bottom: 30px;
+    font-size: 14px;
+    color: #627c8e;
+    margin-left: 280px;
+  }
 
    
 
